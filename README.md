@@ -1,1 +1,1 @@
-# Miniprojeto-em-HTML-CSS-Museu-Nacional
+# Miniprojeto em HTML e CSS - Museu Nacional
