@@ -1,6 +1,6 @@
 # Miniprojeto em HTML e CSS - Museu Nacional
 
-Página simples com as linguagens HTML e CSS. Aqui mostra um pouco da inserção de um vídeo através da plataforma do Youtube, a imprementação do Google Maps na página e um formulário de visitantes.
+Página simples com as linguagens HTML e CSS. Aqui mostra a imprementação de um vídeo através da plataforma do Youtube, da localização do Museu Nacional através do Google Maps e também um mini-formulário de visitantes.
  
  Clique na imagem abaixo para acessar um vídeo demonstrativo deste miniprojeto.
 
